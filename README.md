@@ -1,6 +1,6 @@
 ![Header](https://github.com/hollyroll/hollyroll/blob/main/assets/Resume.png)
 
-About me
+## Прошел курсы тестировщика, хочу попробовать себя на позиции Junior QA Engineer.
 
 Languages and Tools
 
