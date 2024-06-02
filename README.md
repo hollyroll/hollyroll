@@ -9,3 +9,4 @@
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/TELEGRAM-blue)](https://t.me/hollyroll25)
+[![Instagram](https://img.shields.io/badge/Instagram-pink)](https://www.instagram.com/hollyroll25?igsh=ZnYwcHRneHR2ZGph&utm_source=qr)
