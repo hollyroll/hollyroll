@@ -8,4 +8,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
 
 ### Follow Me
-![Telegram](https://img.shields.io/badge/TELEGRAM-blue&logo=Telegram&logocolor-blue)
+![Telegram](https://img.shields.io/badge/TELEGRAM-blue)
