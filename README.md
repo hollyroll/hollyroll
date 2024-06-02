@@ -2,6 +2,7 @@
 
 ## Прошел курсы тестировщика, хочу попробовать себя на позиции Junior QA Engineer.
 
-Languages and Tools
+### Languages and Tools
+![POSTMAN](https://img.shields.io/badge/POSTMAN-orange)
 
 Follow Me
