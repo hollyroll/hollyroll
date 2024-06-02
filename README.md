@@ -7,4 +7,5 @@
 ![GitHub](https://img.shields.io/badge/GitHub-grey)
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
 
-Follow Me
+### Follow Me
+![Telegram](https://img.shields.io/badge/TELEGRAM-blue&logo=Telegram&logocolor-blue)
