@@ -4,5 +4,7 @@
 
 ### Languages and Tools
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-orange)
+![GitHub](https://img.shields.io/badge/GitHub-grey)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
 
 Follow Me
