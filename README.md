@@ -1,4 +1,4 @@
-[![Header]https://github.com/hollyroll/hollyroll/blob/main/assets/Resume.png]
+[![Header](https://github.com/hollyroll/hollyroll/blob/main/assets/Resume.png)]
 
 About me
 
